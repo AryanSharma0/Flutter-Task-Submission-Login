@@ -39,25 +39,8 @@ A professional Flutter application demonstrating secure authentication with clea
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/flutter-login-app.git
-cd flutter-login-app
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-### Method 2: New Project Setup (Recommended if facing Gradle issues)
-
-```bash
-# Create new Flutter project
-flutter create --org com.example login_app
-cd login_app
-
-# Copy dependencies to pubspec.yaml
-# Copy lib folder from this project
+git clone https://github.com/AryanSharma0/Flutter-Task-Submission-Login/
+cd Flutter-Task-Submission-Login
 
 # Install dependencies
 flutter pub get
@@ -191,14 +174,6 @@ cd ..
 flutter run
 ```
 
-### Flutter Doctor
-
-Check your development environment:
-
-```bash
-flutter doctor
-flutter doctor --android-licenses
-```
 
 
 ## 🔄 State Management Flow
